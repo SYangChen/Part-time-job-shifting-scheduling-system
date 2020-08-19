@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\DataBase\2019LAB\B063040061_DB_Project_WorkingSchedule\B063040061_DB_Project_WorkingSchedule\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\DataBase\2019LAB\B063040061_DB_Project_WorkingSchedule\B063040061_DB_Project_WorkingSchedule\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\DataBase\2019LAB\B063040061_DB_Project_WorkingSchedule\B063040061_DB_Project_WorkingSchedule\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
