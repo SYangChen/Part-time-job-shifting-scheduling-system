@@ -1,4 +1,4 @@
-# Working-Schedule-Arrangement-System
+# Part-time job shifting scheduling system
 Create a working schedule calendar web site for student arranging their part-time job schedule.
 
 ## Environment
